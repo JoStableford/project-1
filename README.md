@@ -1,5 +1,5 @@
 # Project-1
-A knowledge repo for interesting things (about Jo)
+A knowledge repo for interesting things about Jo, as learning exercise for using GitHub markdown and systems.
 
 ## Socials
 [Joanne Stableford's LinkedIn](www.linkedin.com/in/joanne-stableford)
@@ -15,6 +15,13 @@ A knowledge repo for interesting things (about Jo)
 ## Recent Design Work
 *to be added*
 
+
+
+---
+
+## Example Formatting Options
+
+### Tables
 | Slack Channel | Use case         |:white_check_mark:|
 | ----           |-----------      |---|
 |`#channel-name` | Used for reason |   |
