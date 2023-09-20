@@ -16,7 +16,7 @@ A knowledge repo for interesting things about Jo, as learning exercise for using
 *to be added*
 
 ## Trainings
-- LinkedIn Learning
+- [LinkedIn Learning](https://learning.linkedin.com/cx/get-started?src=go-pa&trk=sem-ga_campid.17444416955_asid.138908484873_crid.484112882068_kw.linkedinlearning_d.c_tid.kwd-312799004820_n.g_mt.e_geo.9007849&mcid=6940436762359984129&cid=&gclid=CjwKCAjwsKqoBhBPEiwALrrqiOUeV8Uebx3p1Yd-jeHA5aPTWl2c8ktXS7mxj9PF4lB5ZL23c1Ev_xoCHGgQAvD_BwE&gclsrc=aw.ds)
 - YouTube Tutorials
 - *more to come*
 
