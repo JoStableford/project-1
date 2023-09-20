@@ -16,7 +16,7 @@ A knowledge repo for interesting things about Jo, as learning exercise for using
 *to be added*
 
 ## Trainings
-- LinkedIn Learning
+- [LinkedIn Learning](linkedin.com)
 - YouTube Tutorials
 - *more to come*
 
