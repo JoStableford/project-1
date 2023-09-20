@@ -15,7 +15,10 @@ A knowledge repo for interesting things about Jo, as learning exercise for using
 ## Recent Design Work
 *to be added*
 
-
+## Trainings
+- LinkedIn Learning
+- YouTube Tutorials
+- *more to come*
 
 ---
 
